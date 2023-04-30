@@ -1,27 +1,12 @@
 # Hello 👋🏻 Bonjour 🇫🇷 Здравейте 🇧🇬
 
-<!--
-**alexandra-valkova/alexandra-valkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <a href="https://www.canva.com/design/DAFgYroB9Bk/view" target="_blank">
   <img src="https://user-images.githubusercontent.com/11817929/232809835-a2d0064b-da76-4945-a857-993efcc750f1.png" alt="Alexandra Valkova | Aspiring Sustainable Software Engineer" />
 </a>
 
 ## Who am I and where I am from? 🌍
 
-My name is Alexandra, I'm half French 🇫🇷 and half Bulgarian 🇧🇬. I was born in France and grew up bilingual.
+My name is Alexandra, I am half French 🇫🇷 and half Bulgarian 🇧🇬. I was born in France and grew up bilingual.
 
 I am currently based in **Nice** 📍 on the sunny French Riviera seaside and close to the [Sophia-Antipolis](https://www.sophia-antipolis.fr/en/) tech park.
 
@@ -61,7 +46,6 @@ My first job in France was at [ALTEN](https://alten.com) 🇫🇷 where I had th
 
 I am most fluent in **C#** and the **.NET** platform. My skill set is mainly focused on the _back end_, but I'm open to expanding my _front-end_ skills as well. I'm also interested in developing _mobile apps_ and have some experience with cross-platform development such as **Xamarin**. You can check my full stack at [StackShare](https://stackshare.io/alexandra-valkova):
 
-<!-- [![StackShare](https://img.shields.io/badge/StackShare-0690FA?logo=stackshare&logoColor=fff&style=for-the-badge)](https://stackshare.io/alexandra-valkova) -->
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa?style=for-the-badge&logo=stackshare)](https://stackshare.io/alexandra-valkova/my-stack)
 
 <details>
@@ -91,8 +75,6 @@ I am most fluent in **C#** and the **.NET** platform. My skill set is mainly foc
   ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge)
 </details>
 
-<!-- ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandra-valkova) -->
-
 ## Who am I aspiring to be? ✨
 
 My main objectives are to deepen my knowledge, gain more relevant experience, develop my skills and increase my autonomy.
@@ -101,7 +83,4 @@ My main objectives are to deepen my knowledge, gain more relevant experience, de
 
 In addition to this, I am curious about **Green IT**. I am interested in applying the principles of sustainable software development in my work, or being part of a team that does. For this reason, I have started this journey by completing the [**_Green Software for Practitioners_**](https://learn.greensoftware.foundation/) course [:octocat:](https://github.com/Green-Software-Foundation/learn) from [The Green Software Foundation](https://github.com/Green-Software-Foundation) and becoming certified [🏅](https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/) by [The Linux Foundation](https://github.com/linuxfoundation). I am eager to learn more and obtain additional certifications in the future, such as the ones issued by the [INR](https://institutnr.org/sustainable-it-certificate-of-knowledge) and [CNUMR](https://github.com/cnumr). I have also shelved some books about sustainable IT on [Goodreads 📚](https://www.goodreads.com/review/list/41530588-alexandra-valkova?shelf=green-it) and have started adding relevant repositories to my [GitHub list :octocat:](https://github.com/stars/alexandra-valkova/lists/green-it)
 
-<!-- [![Green IT bookshelf on Goodreads](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff&style=for-the-badge)](https://www.goodreads.com/review/list/41530588-alexandra-valkova?shelf=green-it) -->
-
 [![Credly Badge](https://images.credly.com/size/100x100/images/e11a03a6-904f-4e08-9427-ab48d3885e4f/image.png)](https://www.credly.com/badges/98330b89-613c-409f-b462-89f664eb3dac/public_url)
-<!-- ![Linux Foundation Badge](https://img.shields.io/badge/Linux%20Foundation-036?logo=linuxfoundation&logoColor=fff&style=for-the-badge) -->
