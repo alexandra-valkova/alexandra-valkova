@@ -12,7 +12,7 @@ I am currently based in **Nice** 📍 on the sunny French Riviera seaside and cl
 
 ## What have I studied so far? 🎓
 
-After graduating with honours from a high school :school: specialising in mathematics and informatics (my first programming languages were **C++** and **VisualBasic**) in Plovdiv, Bulgaria 🇧🇬 I enrolled at the *[University of Plovdiv](https://uni-plovdiv.academia.edu/alexandravalkova)* :classical_building: and completed my 4-year Bachelor's degree in **_Software Technology and Design_**, also with honours. During my final year 👩🏼‍🎓 I had the pleasure of teaching students [design patterns in **C#**](https://github.com/alexandra-valkova/DesignPatterns).
+After graduating with honours from a high school :school: specialising in mathematics and informatics (my first programming languages were **C++** and **Visual Basic**) in Plovdiv, Bulgaria 🇧🇬 I enrolled at the *[University of Plovdiv](https://uni-plovdiv.academia.edu/alexandravalkova)* :classical_building: and completed my 4-year Bachelor's degree in **_Software Technology and Design_**, also with honours. During my final year 👩🏼‍🎓 I had the pleasure of teaching students [design patterns in **C#**](https://github.com/alexandra-valkova/DesignPatterns). At the same university, I continued my studies by attending a one-year Master's program in _Software Technology with Specialization in Mobile Systems and Applications_.
 
 <details>
   <summary>GitHub :octocat: projects from this curriculum</summary>
@@ -40,7 +40,7 @@ Towards the end of my second year, I started an internship at [Prime Holding](ht
 
 My next professional experience was at [ScaleFocus](https://github.com/scalefocus) 🇧🇬 where I worked on several different projects, most of them in _English_. I had the opportunity to further my knowledge in **.NET**, **TypeScript** and **SQL**. I also learned how to write unit tests.
 
-My first job in France was at [ALTEN](https://alten.com) 🇫🇷 where I had the chance to work with a French team for the first time. I was able to practice my _French_ like never before, complete a **.NET Core** course and dive deeper into **SQL**. Every couple of weeks I was assigned to work on the support side.
+My first job in France was at [ALTEN](https://alten.com) 🇫🇷 where I had the chance to work with a French team for the first time. I was able to practice my _French_ like never before, complete a **.NET Core** course and dive deeper into **SQL**. 
 
 ## What is my tech stack? 💻
 
