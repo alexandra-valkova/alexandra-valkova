@@ -1,9 +1,5 @@
 # Hello 👋🏻 Bonjour 🇫🇷 Здравейте 🇧🇬
 
-<!--<a href="https://www.canva.com/design/DAFgYroB9Bk/view" target="_blank">
-  <img src="https://user-images.githubusercontent.com/11817929/232809835-a2d0064b-da76-4945-a857-993efcc750f1.png" alt="Alexandra Valkova | Aspiring Sustainable Software Engineer" />
-</a>-->
-
 ## Who am I and where do I come from? 🌍
 
 My name is Alexandra 👱🏻‍♀️ I am half French 🇫🇷 and half Bulgarian 🇧🇬 I was born in France and grew up bilingual.
@@ -66,4 +62,5 @@ I am most fluent in **C#** and the **.NET** platform. My skill set is mainly foc
   <summary>Recent GitHub :octocat: projects</summary>
   
   * [Travel API (Minimal API)](https://github.com/alexandra-valkova/TravelAPI)
+  * [Doctor Appointment (Minimal API + Razor Pages app)](https://github.com/alexandra-valkova/DoctorAppointment)
 </details>
