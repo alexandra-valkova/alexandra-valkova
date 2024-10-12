@@ -61,6 +61,6 @@ I am most fluent in **C#** and the **.NET** platform. My skill set is mainly foc
 <details>
   <summary>Recent GitHub :octocat: projects</summary>
   
-  * [Travel API (Minimal API)](https://github.com/alexandra-valkova/TravelAPI)
   * [Doctor Appointment (Minimal API + Razor Pages app)](https://github.com/alexandra-valkova/DoctorAppointment)
+  * [Boarding Cards (Minimal API + Blazor Web App)](https://github.com/alexandra-valkova/TravelAPI)
 </details>
