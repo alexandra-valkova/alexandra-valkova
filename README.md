@@ -22,7 +22,7 @@ After graduating with honours from a high school :school: specialising in mathem
 
 ## Where have I worked so far? 👩🏼‍💻
 
-Towards the end of my second year, I started an internship at [Prime Holding](https://github.com/Prime-Holding) 🇧🇬 This first experience taught me a lot, including working in a team, using the Scrum methodology and version control (**Git**). I acquired front-end (**HTML, CSS, Bootstrap, JS**), back-end (**ASP.NET MVC**, **Entity Framework** with **SQL Server**, **APIs**) and mobile dev (**Xamarin**) skills.
+Towards the end of my second year, I started an internship in software developement at [Prime Holding](https://github.com/Prime-Holding) 🇧🇬 This first experience taught me a lot, including working in a team, using the Scrum methodology and version control (**Git**). I acquired front-end (**HTML, CSS, Bootstrap, JS**), back-end (**ASP.NET MVC**, **Entity Framework** with **SQL Server**, **APIs**) and mobile dev (**Xamarin**) skills.
 
 <details>
   <summary>GitHub :octocat: projects from this work experience</summary>
@@ -35,9 +35,11 @@ Towards the end of my second year, I started an internship at [Prime Holding](ht
   * [Task Manager (Xamarin.Android)](https://github.com/alexandra-valkova/TaskManagerXamarinAndroid)
 </details>
 
-My next professional experience was at [ScaleFocus](https://github.com/scalefocus) 🇧🇬 where I worked on several different client projects, most of them in _English_. I had the opportunity to further my knowledge in **.NET**, **TypeScript** and **SQL**. I also learned how to write unit tests (**NUnit**).
+My next professional experience was as a **_Software Engineer_** at [ScaleFocus](https://github.com/scalefocus) 🇧🇬 where I worked on several different client projects, most of them in _English_. I had the opportunity to further my knowledge in **.NET**, **TypeScript** and **SQL**. I also learned how to write unit tests (**NUnit**).
 
 My first job in France was at [ALTEN](https://alten.com) 🇫🇷 where I had the chance to work with a French team for the first time. I was able to practice my _French_ like never before, complete a **.NET Core** course and broaden my knowledge of various technologies, tools and methodologies.
+
+I am currently working as a **_Data Integration Engineer_** at [MiddleWay](https://www.middleway.eu/) 🇫🇷 where I am learning more about **Azure** and cloud computing ☁️📊
 
 ## What is my tech stack? 💻
 
@@ -47,16 +49,17 @@ I am most fluent in **C#** and the **.NET** platform. My skill set is mainly foc
 
 ## What am I currently learning? ⌨️
 
-- ASP.NET Core 8;
-- Razor Pages;
-- Minimal APIs;
-- Entity Framework Core;
-- Clean Architecture and Vertical Slice Architecture;
-- MediatR (CQRS and Mediator design patterns) and FluentValidation;
-- ASP.NET Identity;
-- Result and Specification design patterns;
-- xUnit and FluentAssertions unit testing tools;
-- Blazor;
+- ASP.NET Core 8
+- Razor Pages
+- Minimal APIs
+- Entity Framework Core
+- Clean Architecture and Vertical Slice Architecture
+- MediatR (CQRS and Mediator design patterns) and FluentValidation
+- ASP.NET Identity
+- Result and Specification design patterns
+- xUnit and FluentAssertions unit testing tools
+- Blazor
+- Azure
 
 <details>
   <summary>Recent GitHub :octocat: projects</summary>
